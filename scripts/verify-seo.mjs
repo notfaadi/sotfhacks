@@ -89,9 +89,12 @@ if (!home.includes(`<h1`) || !home.includes('Aimbot, ESP &amp; Radar for PC')) {
   fail('Homepage H1 must match the page title (Seobility title/content alignment)')
 }
 const homeDesc =
-  'Buy Sons of the Forest Hacks on Windows PC — silent-aim Aimbot, player ESP, wallhack, loot ESP and radar hack. Check live Easy Anti-Cheat (EAC) status, then checkout from $35 on sotfhacks.org.'
+  'Sons of the Forest Hacks on Windows PC: Aimbot, ESP, wallhack, loot ESP and radar hack. Check live Easy Anti-Cheat (EAC) status, then buy from $35 on sotfhacks.org.'
 if (!home.includes(`content="${homeDesc}"`)) {
   fail('Homepage meta description must match HOME_PAGE_DESCRIPTION and hero paragraph')
+}
+if (homeDesc.length < 120 || homeDesc.length > 165) {
+  fail(`Homepage meta description length ${homeDesc.length} should be 120-165 chars for SERP`)
 }
 if (product.includes('<title>Buy Sons of the Forest Hacks')) fail('Product details page competes with homepage')
 if ((faq.match(/"@type":"FAQPage"/g) || []).length !== 1) fail('/faq must own one FAQPage')
