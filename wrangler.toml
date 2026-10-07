@@ -3,6 +3,7 @@
 name = "sotfhacks"
 main = "workers/site.js"
 compatibility_date = "2026-09-12"
+workers_dev = true
 
 # Cloudflare CI invokes `npx wrangler deploy` directly. Build Astro first so
 # the static-assets directory exists before Wrangler validates it.
@@ -11,10 +12,12 @@ command = "npm run build"
 
 [[routes]]
 pattern = "sotfhacks.org"
+zone_name = "sotfhacks.org"
 custom_domain = true
 
 [[routes]]
 pattern = "www.sotfhacks.org"
+zone_name = "sotfhacks.org"
 custom_domain = true
 
 [assets]

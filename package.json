@@ -13,6 +13,7 @@
     "generate:sitemaps": "node scripts/generate-sitemaps.mjs",
     "generate:seo-assets": "node scripts/generate-seo-assets.mjs",
     "verify:seo": "node scripts/verify-seo.mjs",
+    "check:live": "node scripts/check-live.mjs",
     "lint": "oxlint"
   },
   "dependencies": {
