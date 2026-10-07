@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://sotfhacks.org/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/home.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Open Graph</image:title>
+      <image:caption>Google and social preview image for sotfhacks.org homepage.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-hero-full.webp</image:loc>
+      <image:title>Sons of the Forest Hacks Hero</image:title>
+      <image:caption>Buy Sons of the Forest cheats - Sons of the Forest Aimbot, ESP and radar hack hero artwork for PC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-cover.webp</image:loc>
+      <image:title>Sons of the Forest Hacks Product Cover</image:title>
+      <image:caption>Sons of the Forest cheats product cover for checkout and social previews.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-video-thumb.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Preview Thumbnail</image:title>
+      <image:caption>Thumbnail for the Sons of the Forest Aimbot and ESP preview video.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/sons-of-the-forest-hacks.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Product Social Preview</image:title>
+      <image:caption>Default Open Graph image for sotfhacks.org product pages.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-mods-multiplayer-hacks</loc>
+    <lastmod>2025-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-mods-multiplayer-hacks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-mods-multiplayer-hacks" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-mods-multiplayer-hacks.jpg</image:loc>
+      <image:title>SOTF Mods &amp; Multiplayer Hacks Open Graph</image:title>
+      <image:caption>Sons of the Forest mods and SOTF multiplayer hacks for PC co-op - EAC status, private servers, and feature list.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Mods &amp; Multiplayer Hacks Artwork</image:title>
+      <image:caption>Sons of the Forest mods vs SOTF multiplayer hacks - co-op servers, private hosts, and what changes when Easy Anti-Cheat (EAC) is active.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-no-clip-hacks</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-no-clip-hacks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-no-clip-hacks" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-no-clip-hacks.jpg</image:loc>
+      <image:title>Sons of the Forest No Clip &amp; SOTF No Clip Open Graph</image:title>
+      <image:caption>Sons of the Forest no clip and SOTF no clip explained - movement module limits, PC only, live EAC status on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest No Clip &amp; SOTF No Clip Artwork</image:title>
+      <image:caption>What Sons of the Forest no clip and SOTF no clip mean in commercial menus - collision bypass myths, caves, and multiplayer servers.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-steam-epic-windows-hacks</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-steam-epic-windows-hacks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-steam-epic-windows-hacks" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-steam-epic-windows-hacks.jpg</image:loc>
+      <image:title>Steam, Epic Games &amp; Windows SOTF Hacks Open Graph</image:title>
+      <image:caption>Sons of the Forest Steam hacks, SOTF Epic Games cheats, Sons of the Forest Windows hacks - PC setup for Steam and Epic launches.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Steam, Epic Games &amp; Windows SOTF Hacks Artwork</image:title>
+      <image:caption>Sons of the Forest Steam hacks, Epic Games hacks, and SOTF Windows cheats - same PC client, launcher paths, and EAC after purchase.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-weather-enemy-combat-hacks</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-weather-enemy-combat-hacks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-weather-enemy-combat-hacks" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-weather-enemy-combat-hacks.jpg</image:loc>
+      <image:title>Weather Control, Enemy Freeze &amp; One Hit Kill Open Graph</image:title>
+      <image:caption>SOTF weather control, Sons of the Forest enemy freeze, one hit kill, and SOTF combat modules - feature checklist on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Weather Control, Enemy Freeze &amp; One Hit Kill Artwork</image:title>
+      <image:caption>Sons of the Forest weather control, enemy freeze, and one hit kill modules - SOTF combat helpers vs PvP aimbot.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/sons-of-the-forest-hacks</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/sons-of-the-forest-hacks" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/sons-of-the-forest-hacks" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/sons-of-the-forest-hacks.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Open Graph</image:title>
+      <image:caption>Google and social preview for the Sons of the Forest cheats product page.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-cover.webp</image:loc>
+      <image:title>Sons of the Forest Aimbot ESP Product Artwork</image:title>
+      <image:caption>Product features, compatibility, status and price before checkout.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-hero-full.webp</image:loc>
+      <image:title>Sons of the Forest Cheats Product Hero</image:title>
+      <image:caption>Hero artwork for Sons of the Forest Aimbot, ESP and radar hack product details.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Cheats Menu Preview</image:title>
+      <image:caption>Menu and Aimbot settings preview for Sons of the Forest cheats.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-esp-gameplay.webp</image:loc>
+      <image:title>Sons of the Forest ESP Gameplay</image:title>
+      <image:caption>Player ESP and wallhack preview for Sons of the Forest.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-video-thumb.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Preview Thumbnail</image:title>
+      <image:caption>Thumbnail for the Sons of the Forest cheats preview video.</image:caption>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://sotfhacks.org/media/sotf-video-thumb.jpg</video:thumbnail_loc>
+      <video:title>Sons of the Forest Hacks Aimbot and ESP Preview</video:title>
+      <video:description>Self-hosted Sons of the Forest cheats preview showing Aimbot, ESP menu and survival gameplay visuals on PC.</video:description>
+      <video:content_loc>https://sotfhacks.org/videos/sotf-preview.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Forums Open Graph</image:title>
+      <image:caption>Google preview image for the Sons of the Forest Hacks guides index.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Hacks Forum Artwork</image:title>
+      <image:caption>Artwork reference for Sons of the Forest setup and feature guides.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/aimbot-settings</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/aimbot-settings" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/aimbot-settings" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-aimbot-settings.jpg</image:loc>
+      <image:title>Sons of the Forest Aimbot Settings for Silent Aim Open Graph</image:title>
+      <image:caption>Sons of the Forest Aimbot settings for PC: silent aim, FOV, smoothing and visible-check so your Sons of the Forest cheat looks legit on official and private servers. Start conservative, then save configs.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Aimbot Settings for Silent Aim Artwork</image:title>
+      <image:caption>Tune Sons of the Forest Aimbot FOV, smoothing, hitbox and silent aim so player tracking stays effective without looking robotic to spectating admins.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/complete-setup</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/complete-setup" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/complete-setup" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-complete-setup.jpg</image:loc>
+      <image:title>Complete Sons of the Forest Hacks Setup Open Graph</image:title>
+      <image:caption>Complete Sons of the Forest cheats setup for Windows PC: buy when status is clear, antivirus exclusions, load order, first-run ESP and Aimbot config, then re-check Easy Anti-Cheat (EAC) after every patch.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-hero-full.webp</image:loc>
+      <image:title>Complete Sons of the Forest Hacks Setup Artwork</image:title>
+      <image:caption>Step-by-step Sons of the Forest cheats setup: buy from $35, antivirus exclusions, load order, enable ESP and Aimbot, save configs, re-check Easy Anti-Cheat (EAC).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/disable-antivirus</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/disable-antivirus" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/disable-antivirus" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-disable-antivirus.jpg</image:loc>
+      <image:title>Antivirus Exclusions for Sons of the Forest Hacks Open Graph</image:title>
+      <image:caption>Allowlist Sons of the Forest cheats loaders in Windows Defender and third-party antivirus before you load. Restore quarantines, exclude the delivery folder, then continue setup when status is clear.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-control-art.jpg</image:loc>
+      <image:title>Antivirus Exclusions for Sons of the Forest Hacks Artwork</image:title>
+      <image:caption>Allowlist Sons of the Forest cheats in Windows Defender and common antivirus so the loader is not quarantined before first run.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/eac-status</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/eac-status" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/eac-status" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-eac-status.jpg</image:loc>
+      <image:title>Sons of the Forest Easy Anti-Cheat (EAC) Status: Clear to Load vs Updating Open Graph</image:title>
+      <image:caption>Sons of the Forest Easy Anti-Cheat (EAC) status explained for Sons of the Forest cheats: clear-to-load vs Updating after patches, why you wait, and how admin bans differ from anti-cheat detections.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-cover.webp</image:loc>
+      <image:title>Sons of the Forest Easy Anti-Cheat (EAC) Status: Clear to Load vs Updating Artwork</image:title>
+      <image:caption>What clear-to-load and Updating mean for Sons of the Forest cheats after Easy Anti-Cheat (EAC) and game patches - and why admin bans are a separate risk.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/esp-wallhack-guide</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/esp-wallhack-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/esp-wallhack-guide" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-esp-wallhack-guide.jpg</image:loc>
+      <image:title>Sons of the Forest ESP and Wallhack Setup Open Graph</image:title>
+      <image:caption>Sons of the Forest ESP and wallhack setup: player boxes, skeletons, distance, health, mutants ESP and loot highlighting. Clean HUD defaults for Sons of the Forest cheats on PC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-esp-gameplay.webp</image:loc>
+      <image:title>Sons of the Forest ESP and Wallhack Setup Artwork</image:title>
+      <image:caption>Configure Sons of the Forest ESP and wallhack for player boxes, mutants tracking and loot highlighting without flooding your HUD.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/features-list</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/features-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/features-list" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-features-list.jpg</image:loc>
+      <image:title>Sons of the Forest Hack Features Checklist Open Graph</image:title>
+      <image:caption>Sons of the Forest cheat features checklist: silent aim Aimbot, player ESP, loot ESP, wallhack, radar hack and spoofer on sotfhacks.org from $35. Compare modules before you buy.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-cover.webp</image:loc>
+      <image:title>Sons of the Forest Hack Features Checklist Artwork</image:title>
+      <image:caption>Checklist of every Sons of the Forest cheat module on sotfhacks.org - silent aim, player ESP, loot ESP, wallhack, radar hack and spoofer - before you open checkout from $35.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/hotkeys</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/hotkeys" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/hotkeys" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-hotkeys.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Hotkeys After Load Open Graph</image:title>
+      <image:caption>Sons of the Forest cheats hotkeys after checkout: open menu, Aimbot toggle, player ESP, loot ESP, radar hack and stream-proof binds. Keep panic keys minimal for field use.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Hacks Hotkeys After Load Artwork</image:title>
+      <image:caption>Menu and toggle hotkeys for Sons of the Forest cheats after a clean load - Aimbot, ESP, loot ESP, radar and panic binds.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/loader-errors</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/loader-errors" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/loader-errors" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-loader-errors.jpg</image:loc>
+      <image:title>Fix Sons of the Forest Hacks Loader Errors Open Graph</image:title>
+      <image:caption>Fix Sons of the Forest cheats loader errors on Windows: antivirus quarantine, overlays, failed inject and menu not opening. Confirm Easy Anti-Cheat (EAC) status is clear first, then escalate with your order ID.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-tactical-art.jpg</image:loc>
+      <image:title>Fix Sons of the Forest Hacks Loader Errors Artwork</image:title>
+      <image:caption>Troubleshoot Sons of the Forest cheats loader errors - menu not opening, instant close, antivirus quarantine and failed inject.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/radar-hack-guide</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/radar-hack-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/radar-hack-guide" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-radar-hack-guide.jpg</image:loc>
+      <image:title>Sons of the Forest Radar Hack Overlay Guide Open Graph</image:title>
+      <image:caption>Sons of the Forest radar hack guide for PC: 2D radar overlay, off-screen player tracking and safer military loot approaches. Pair with ESP for Sons of the Forest cheats that stay readable.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Radar Hack Overlay Guide Artwork</image:title>
+      <image:caption>Use the Sons of the Forest radar hack 2D overlay to track off-screen players, avoid third parties and approach military loot safer.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/raid-play-guide</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/raid-play-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/raid-play-guide" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-raid-play-guide.jpg</image:loc>
+      <image:title>Safer Sons of the Forest Hack Settings for Loot Runs Open Graph</image:title>
+      <image:caption>Safer Sons of the Forest cheat settings for loot runs and survival: ESP-first play, mild silent aim, loot highlighting, radar hack and Easy Anti-Cheat (EAC) habits that reduce report risk on private servers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-box.jpg</image:loc>
+      <image:title>Safer Sons of the Forest Hack Settings for Loot Runs Artwork</image:title>
+      <image:caption>Safer Sons of the Forest cheat defaults for survival and loot runs - ESP-first play, mild silent aim, radar awareness and report-conscious habits.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-aimbot-esp-wallhack</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-aimbot-esp-wallhack" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-aimbot-esp-wallhack" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-aimbot-esp-wallhack.jpg</image:loc>
+      <image:title>SOTF Aimbot, ESP &amp; Wallhack Guide Open Graph</image:title>
+      <image:caption>SOTF aimbot, Sons of the Forest ESP, and SOTF wallhack settings for PC - silent aim, player ESP, and loot highlighting.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Aimbot, ESP &amp; Wallhack Guide Artwork</image:title>
+      <image:caption>Configure Sons of the Forest aimbot, SOTF ESP, and wallhack together - FOV, loot filters, and player boxes without obvious rage settings.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-anti-cheat-bypass</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-anti-cheat-bypass" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-anti-cheat-bypass" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-anti-cheat-bypass.jpg</image:loc>
+      <image:title>SOTF Hack with Anti-Cheat Bypass (EAC) Open Graph</image:title>
+      <image:caption>SOTF hack with anti-cheat bypass explained - EAC status, undetected Sons of the Forest cheats, and patch survival.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Hack with Anti-Cheat Bypass (EAC) Artwork</image:title>
+      <image:caption>How Sons of the Forest undetected hacks handle Easy Anti-Cheat (EAC) - Updating windows, bypass myths, and SOTF hack with anti-cheat bypass reality.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-cheat-codes-guide</loc>
+    <lastmod>2025-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-cheat-codes-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-cheat-codes-guide" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-cheat-codes-guide.jpg</image:loc>
+      <image:title>Sons of the Forest Cheat Codes vs SOTF Hacks Menu Open Graph</image:title>
+      <image:caption>Sons of the Forest cheat codes and SOTF cheat codes explained - dev console vs undetected hack menu on PC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Cheat Codes vs SOTF Hacks Menu Artwork</image:title>
+      <image:caption>Sons of the Forest cheat codes (console) compared to SOTF cheat codes in a commercial menu - what each can do on PC.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-fly-speed-teleport-hack</loc>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-fly-speed-teleport-hack" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-fly-speed-teleport-hack" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-fly-speed-teleport-hack.jpg</image:loc>
+      <image:title>SOTF Fly Hack, Speed Hack &amp; Teleport Guide Open Graph</image:title>
+      <image:caption>SOTF fly hack, speed hack, and teleport hack plus Sons of the Forest super jump - movement features and EAC status on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Fly Hack, Speed Hack &amp; Teleport Guide Artwork</image:title>
+      <image:caption>Sons of the Forest fly hack, SOTF speed hack, and teleport hack explained - super jump, movement modules, and multiplayer risk on Windows PC.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-god-mode-unlimited-resources</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-god-mode-unlimited-resources" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-god-mode-unlimited-resources" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-god-mode-unlimited-resources.jpg</image:loc>
+      <image:title>SOTF God Mode &amp; Unlimited Resources Open Graph</image:title>
+      <image:caption>Sons of the Forest god mode and SOTF unlimited resources features - what the trainer menu can and cannot do on PC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF God Mode &amp; Unlimited Resources Artwork</image:title>
+      <image:caption>What Sons of the Forest god mode and unlimited resources mean in commercial SOTF trainer menus - health, stamina, and loot advantages explained honestly.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-hack-download-pc</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-hack-download-pc" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-hack-download-pc" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-hack-download-pc.jpg</image:loc>
+      <image:title>Sons of the Forest Hack Download for PC Open Graph</image:title>
+      <image:caption>Sons of the Forest free hacks download access after checkout - working SOTF hacks for PC with aimbot, ESP, and trainer-style loot tools.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Sons of the Forest Hack Download for PC Artwork</image:title>
+      <image:caption>How Sons of the Forest hack download works on Windows PC - checkout delivery, loader link, and why SOTF console hacks are not supported here.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-hack-installation</loc>
+    <lastmod>2026-02-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-hack-installation" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-hack-installation" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-hack-installation.jpg</image:loc>
+      <image:title>SOTF Hack Installation &amp; Tutorial Open Graph</image:title>
+      <image:caption>SOTF hack installation guide and Sons of the Forest hack tutorial - loader setup, EAC status, and first menu config on PC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Hack Installation &amp; Tutorial Artwork</image:title>
+      <image:caption>Step-by-step SOTF hack installation after purchase - Windows prep, antivirus exclusions, load order, and Sons of the Forest hack tutorial checkpoints.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-hacks-2026-undetected</loc>
+    <lastmod>2026-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-hacks-2026-undetected" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-hacks-2026-undetected" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-hacks-2026-undetected.jpg</image:loc>
+      <image:title>SOTF Hacks 2026 - Undetected Sons of the Forest Cheats Open Graph</image:title>
+      <image:caption>SOTF undetected cheats and Sons of the Forest hacks 2026 - aimbot, ESP, anti-ban status, and safe load tips on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Hacks 2026 - Undetected Sons of the Forest Cheats Artwork</image:title>
+      <image:caption>Updated 2026 guide to undetected SOTF hacks and Sons of the Forest cheats - live Easy Anti-Cheat (EAC) status, no-ban best practices, and what &quot;undetected&quot; means before you download access.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-hacks-collection</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-hacks-collection" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-hacks-collection" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-hacks-collection.jpg</image:loc>
+      <image:title>Ultimate SOTF Hacks Collection - Aimbot, ESP, God Mode Open Graph</image:title>
+      <image:caption>The ultimate SOTF hacks collection - aimbot, ESP, god mode, item spawner, and Sons of the Forest cheats with live EAC status.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>Ultimate SOTF Hacks Collection - Aimbot, ESP, God Mode Artwork</image:title>
+      <image:caption>One-page map of every major SOTF hacks keyword - cheats, trainer, mods, wallhack, and working download path on sotfhacks.org.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-infinite-stamina-instant-build</loc>
+    <lastmod>2026-02-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-infinite-stamina-instant-build" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-infinite-stamina-instant-build" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-infinite-stamina-instant-build.jpg</image:loc>
+      <image:title>SOTF Infinite Stamina &amp; Instant Build Open Graph</image:title>
+      <image:caption>Sons of the Forest infinite stamina and SOTF instant build - trainer-style survival helpers in the Sons of the Forest cheats menu.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Infinite Stamina &amp; Instant Build Artwork</image:title>
+      <image:caption>Sons of the Forest infinite stamina, SOTF infinite stamina, instant build, and survival trainer modules - what the menu can adjust on PC.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-item-spawner-trainer</loc>
+    <lastmod>2026-01-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-item-spawner-trainer" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-item-spawner-trainer" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-item-spawner-trainer.jpg</image:loc>
+      <image:title>SOTF Item Spawner &amp; Trainer Features Open Graph</image:title>
+      <image:caption>SOTF item spawner and Sons of the Forest trainer features - loot ESP, radar, and stash intel on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Item Spawner &amp; Trainer Features Artwork</image:title>
+      <image:caption>Sons of the Forest item spawner and SOTF trainer tools - loot ESP, stash intel, and menu modules compared to true spawn cheats.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/sotf-multiplayer-trainer-daily</loc>
+    <lastmod>2026-02-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/sotf-multiplayer-trainer-daily" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/sotf-multiplayer-trainer-daily" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-sotf-multiplayer-trainer-daily.jpg</image:loc>
+      <image:title>SOTF Multiplayer Trainer - Updated Daily Status Open Graph</image:title>
+      <image:caption>Sons of the Forest multiplayer trainer and SOTF multiplayer trainer - multiplayer-safe tips, fly, ESP, and live status on sotfhacks.org.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-menu.webp</image:loc>
+      <image:title>SOTF Multiplayer Trainer - Updated Daily Status Artwork</image:title>
+      <image:caption>Sons of the Forest multiplayer trainer and SOTF multiplayer trainer - co-op safety, daily EAC status, and advanced feature list.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/stream-proof-setup</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/stream-proof-setup" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/stream-proof-setup" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-stream-proof-setup.jpg</image:loc>
+      <image:title>Stream-Proof Sons of the Forest Hacks for OBS Open Graph</image:title>
+      <image:caption>Stream-proof Sons of the Forest cheats for OBS and clips: keep ESP, wallhack and Aimbot overlays off recordings while you still see them locally. Test with a private capture first.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-home-art.jpg</image:loc>
+      <image:title>Stream-Proof Sons of the Forest Hacks for OBS Artwork</image:title>
+      <image:caption>Hide Sons of the Forest ESP, loot highlighting and Aimbot overlays from OBS and capture tools with stream-proof mode.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/undetected-status</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/undetected-status" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/undetected-status" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-undetected-status.jpg</image:loc>
+      <image:title>Easy Anti-Cheat (EAC) Status Checklist Before You Buy or Load Open Graph</image:title>
+      <image:caption>Easy Anti-Cheat (EAC) status checklist for Sons of the Forest cheats: confirm clear-to-load before checkout and before every post-patch session. Wait when Updating; buy from $35 when status is live.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-cover.webp</image:loc>
+      <image:title>Easy Anti-Cheat (EAC) Status Checklist Before You Buy or Load Artwork</image:title>
+      <image:caption>Short Easy Anti-Cheat (EAC) status checklist for Sons of the Forest cheats - confirm clear-to-load before checkout and before every post-patch session.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/forums/windows-setup</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/forums/windows-setup" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/forums/windows-setup" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/forums-windows-setup.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks on Windows 10 and 11 Open Graph</image:title>
+      <image:caption>Windows 10 and 11 setup for Sons of the Forest cheats: close overlays, add Defender exclusions, launch with correct permissions and run a clean first load against Easy Anti-Cheat (EAC).</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sotfhacks.org/media/sotf-hero-full.webp</image:loc>
+      <image:title>Sons of the Forest Hacks on Windows 10 and 11 Artwork</image:title>
+      <image:caption>Windows 10/11 prep for Sons of the Forest cheats - overlays, Defender exclusions, admin rights and a clean first launch against Easy Anti-Cheat (EAC).</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/reviews</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/reviews" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/reviews" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/reviews.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Reviews Open Graph</image:title>
+      <image:caption>Google preview image for Sons of the Forest cheats reviews.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/faq</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/faq" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/faq.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks FAQ Open Graph</image:title>
+      <image:caption>Google preview image for the Sons of the Forest Hacks FAQ.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/support</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/support" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/support" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/support.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Support Open Graph</image:title>
+      <image:caption>Google preview image for Sons of the Forest Hacks support.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/privacy</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/privacy" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/privacy.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Privacy Policy</image:title>
+      <image:caption>Privacy policy preview for sotfhacks.org orders and support.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/refunds</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.45</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/refunds" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/refunds" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/refunds.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Refund Policy</image:title>
+      <image:caption>Refund rules preview for digital Sons of the Forest Hacks licenses.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sotfhacks.org/terms</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sotfhacks.org/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sotfhacks.org/terms" />
+    <image:image>
+      <image:loc>https://sotfhacks.org/og/terms.jpg</image:loc>
+      <image:title>Sons of the Forest Hacks Terms of Use</image:title>
+      <image:caption>License terms preview for Sons of the Forest Hacks.</image:caption>
+    </image:image>
+  </url>
+</urlset>
