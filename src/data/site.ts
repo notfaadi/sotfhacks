@@ -46,7 +46,7 @@ const INDEX_ROBOTS =
  */
 export const HOME_PAGE_TITLE = 'Sons of the Forest Hacks | Aimbot, ESP & Radar for PC'
 export const HOME_PAGE_DESCRIPTION =
-  'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.'
+  'Buy Sons of the Forest Hacks on Windows PC — silent-aim Aimbot, player ESP, wallhack, loot ESP and radar hack. Check live Easy Anti-Cheat (EAC) status, then checkout from $35 on sotfhacks.org.'
 
 export const SEO = {
   home: {

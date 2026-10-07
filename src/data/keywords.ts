@@ -146,7 +146,7 @@ export const META_TITLES = {
 
 export const META_DESCRIPTIONS = {
   homeLong:
-    'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.',
+    'Buy Sons of the Forest Hacks on Windows PC — silent-aim Aimbot, player ESP, wallhack, loot ESP and radar hack. Check live Easy Anti-Cheat (EAC) status, then checkout from $35 on sotfhacks.org.',
   homeShort:
     'SOTF Hacks for Windows PC: Aimbot, ESP, wallhack, loot ESP, radar hack and live EAC status. From $35 on sotfhacks.org.',
   antiBan:

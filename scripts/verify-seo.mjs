@@ -89,7 +89,7 @@ if (!home.includes(`<h1`) || !home.includes('Aimbot, ESP &amp; Radar for PC')) {
   fail('Homepage H1 must match the page title (Seobility title/content alignment)')
 }
 const homeDesc =
-  'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.'
+  'Buy Sons of the Forest Hacks on Windows PC — silent-aim Aimbot, player ESP, wallhack, loot ESP and radar hack. Check live Easy Anti-Cheat (EAC) status, then checkout from $35 on sotfhacks.org.'
 if (!home.includes(`content="${homeDesc}"`)) {
   fail('Homepage meta description must match HOME_PAGE_DESCRIPTION and hero paragraph')
 }
