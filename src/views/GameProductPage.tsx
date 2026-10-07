@@ -5,7 +5,6 @@ import { GameCover } from '../components/GameCover'
 import {
   GUIDE_FEATURES,
   getGame,
-  guidePath,
   parseGuideSlug,
   type Game,
 } from '../data/games'
@@ -42,7 +41,7 @@ function ProductPurchaseCard({ game }: { game: Game }) {
         </div>
 
         <CheckoutLink className="cta-gradient mt-5 block w-full rounded-full py-3.5 text-center text-sm font-semibold text-white transition-opacity hover:opacity-90">
-          Buy Sons of the Forest Hacks
+          Buy Now — ${PRODUCT_PRICE_USD}
         </CheckoutLink>
         <p className="mt-3 text-center text-[11px] text-white/40">
           Instant delivery · Check Easy Anti-Cheat (EAC) status first
@@ -59,17 +58,6 @@ type GameProductPageProps = {
 export function GameProductPage({ guideSlug }: GameProductPageProps) {
   const slug = parseGuideSlug(guideSlug)
   const game = getGame(slug)
-
-  if (!guideSlug.toLowerCase().endsWith('-cheats')) {
-    const maybe = getGame(guideSlug.toLowerCase())
-    if (maybe) {
-      if (typeof window !== 'undefined') {
-        window.location.replace(guidePath(maybe.slug))
-      }
-      return null
-    }
-    return <NotFoundPage />
-  }
 
   if (!game) return <NotFoundPage />
 

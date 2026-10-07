@@ -80,11 +80,9 @@ export const SITE_GUIDE_LINKS = [
   { label: 'Status checklist', to: blogPath('undetected-status') },
 ] as const
 
-const CHECKOUT_HOST = ['za', 'deyo', '.com'].join('')
-const CHECKOUT_REF = ['Q', 'R', 'H'].join('')
-const CHECKOUT_PRODUCT = '/products/sons-of-the-forest-hacks'
-
-export const CHECKOUT_URL = `https://${CHECKOUT_HOST}/go/${CHECKOUT_REF}?to=${encodeURIComponent(CHECKOUT_PRODUCT)}`
+/** Zadeyo affiliate — must match the working /go/FDI product deep link exactly. */
+export const CHECKOUT_URL =
+  'https://zadeyo.com/go/FDI?to=%2Fproducts%2Fsonsoftheforest'
 
 export function getCheckoutUrl(_productSlug?: string): string {
   return CHECKOUT_URL

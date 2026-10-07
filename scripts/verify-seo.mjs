@@ -318,6 +318,16 @@ for (const asset of [
 }
 
 const redirects = readFileSync(join(root, 'public', '_redirects'), 'utf8')
+const redirectSources = []
+for (const line of redirects.split('\n')) {
+  const trimmed = line.trim()
+  if (!trimmed || trimmed.startsWith('#')) continue
+  const from = trimmed.split(/\s+/)[0]
+  if (redirectSources.includes(from)) {
+    fail(`_redirects duplicate rule for path ${from}`)
+  }
+  redirectSources.push(from)
+}
 if (!redirects.includes('/sitemap-pages.xml')) {
   fail('_redirects missing legacy sitemap -> /sitemap.xml redirects')
 }
@@ -329,6 +339,11 @@ if (!redirects.includes('/tarkov-cheats')) {
 }
 if (!redirects.includes('/dayz-hacks')) {
   fail('_redirects must map the /dayz-hacks keyword alias to /sons-of-the-forest-hacks')
+}
+
+const linksTs = readFileSync(join(root, 'src', 'data', 'links.ts'), 'utf8')
+if (!linksTs.includes('zadeyo.com/go/FDI?to=%2Fproducts%2Fsonsoftheforest')) {
+  fail('links.ts CHECKOUT_URL must use the FDI affiliate link to /products/sonsoftheforest')
 }
 
 const worker = readFileSync(join(root, 'workers', 'site.js'), 'utf8')

@@ -65,8 +65,15 @@
 /sons-of-the-forest-fly-hack   /forums/sotf-fly-speed-teleport-hack   301
 /sons-of-the-forest-no-clip   /forums/sotf-no-clip-hacks   301
 /sons-of-the-forest-steam-hacks   /forums/sotf-steam-epic-windows-hacks   301
+/eac-sotf-hacks   /sons-of-the-forest-hacks   301
+/buy-sotf-hacks   /   301
+/buy-sotf-hacks/  /   301
+/buy-sons-of-the-forest-hacks   /   301
+/buy-sons-of-the-forest-hacks/  /   301
+/sotf-setup       /forums/complete-setup   301
+/sotf-hacks-setup /forums/complete-setup   301
 
-# Primary SEO keyword variants → product or home
+# Legacy DayZ keyword variants → product or home
 /dayz-hacks     /sons-of-the-forest-hacks   301
 /dayz-hacks/    /sons-of-the-forest-hacks   301
 /dayz-hack      /sons-of-the-forest-hacks   301
@@ -133,25 +140,6 @@
 /forums/loader        /forums/loader-errors      301
 /forums/survival      /forums/raid-play-guide    301
 /forums/loot-run      /forums/raid-play-guide    301
-
-# Primary Sons of the Forest keyword variants → product or home
-/sotf-hacks     /sons-of-the-forest-hacks   301
-/sotf-hacks/    /sons-of-the-forest-hacks   301
-/sotf-hack      /sons-of-the-forest-hacks   301
-/sotf-hack/     /sons-of-the-forest-hacks   301
-/sons-of-the-forest-cheats  /sons-of-the-forest-hacks   301
-/sons-of-the-forest-cheats/ /sons-of-the-forest-hacks   301
-/sotf-cheats    /sons-of-the-forest-hacks   301
-/sotf-cheats/   /sons-of-the-forest-hacks   301
-/sotf-aimbot    /sons-of-the-forest-hacks   301
-/sotf-esp       /sons-of-the-forest-hacks   301
-/eac-sotf-hacks /sons-of-the-forest-hacks   301
-/buy-sotf-hacks /   301
-/buy-sotf-hacks/ /  301
-/buy-sons-of-the-forest-hacks /   301
-/buy-sons-of-the-forest-hacks/ /  301
-/sotf-setup     /forums/complete-setup 301
-/sotf-hacks-setup /forums/complete-setup 301
 
 # Legacy Tarkov slugs → Sons of the Forest Hacks product
 /tarkov-cheats   /sons-of-the-forest-hacks   301
