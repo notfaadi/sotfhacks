@@ -99,8 +99,8 @@ export const SEARCH_PHRASES = ALL_KEYWORDS.map((k) => k.toLowerCase())
 export const META_KEYWORDS = ALL_KEYWORDS.join(', ')
 
 export const META_TITLES = {
-  homeLong: 'Sons of the Forest Hacks — Aimbot, ESP & Radar for PC',
-  homeShort: 'SOTF Hacks — Aimbot, ESP & Radar for PC',
+  homeLong: 'Sons of the Forest Hacks | Aimbot, ESP & Radar for PC',
+  homeShort: 'SOTF Hacks | Aimbot, ESP & Radar for PC',
   productShort: 'SOTF Cheats - Aimbot, ESP & More | Download',
   productYear: 'SOTF Hacks 2026 - Safe & Undetected | Get Access',
   trainer: 'SOTF Trainer - Unlimited Resources & More | Download',
@@ -146,9 +146,9 @@ export const META_TITLES = {
 
 export const META_DESCRIPTIONS = {
   homeLong:
-    'Sons of the Forest cheats for Windows PC — silent-aim Aimbot, ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status on official and private servers. From $35 on sotfhacks.org.',
+    'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.',
   homeShort:
-    'SOTF cheats for Windows PC — Aimbot, ESP, wallhack, loot ESP, radar hack and live EAC status. From $35 on sotfhacks.org.',
+    'SOTF Hacks for Windows PC: Aimbot, ESP, wallhack, loot ESP, radar hack and live EAC status. From $35 on sotfhacks.org.',
   antiBan:
     'Get the best Sons of the Forest hacks with anti-ban protection. Our Sons of the Forest cheats include wallhacks, god mode, and more. Working SOTF hacks for PC — checkout from $35.',
   working:

@@ -40,10 +40,13 @@ export type PageSeo = {
 const INDEX_ROBOTS =
   'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
 
-/** Homepage SERP copy — must match visible H1 and hero paragraph (Seobility title/content alignment). */
-export const HOME_PAGE_TITLE = 'Sons of the Forest Hacks — Aimbot, ESP & Radar for PC'
+/**
+ * Homepage SERP copy — keep in sync with HomePage hero H1 + first paragraph (Seobility).
+ * Title ~55 chars; description ~155 chars; same primary keywords as visible body text.
+ */
+export const HOME_PAGE_TITLE = 'Sons of the Forest Hacks | Aimbot, ESP & Radar for PC'
 export const HOME_PAGE_DESCRIPTION =
-  'Sons of the Forest cheats for Windows PC — silent-aim Aimbot, ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status on official and private servers. From $35 on sotfhacks.org.'
+  'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.'
 
 export const SEO = {
   home: {

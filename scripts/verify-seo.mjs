@@ -81,13 +81,17 @@ const faq = readFileSync(join(dist, 'faq', 'index.html'), 'utf8')
 const support = readFileSync(join(dist, 'support', 'index.html'), 'utf8')
 const forums = readFileSync(join(dist, 'forums', 'index.html'), 'utf8')
 
-const homeTitle =
-  'Sons of the Forest Hacks — Aimbot, ESP &amp; Radar for PC'
+const homeTitle = 'Sons of the Forest Hacks | Aimbot, ESP &amp; Radar for PC'
 if (!home.includes(`<title>${homeTitle}</title>`)) {
   fail('Homepage title must match HOME_PAGE_TITLE and visible H1')
 }
 if (!home.includes(`<h1`) || !home.includes('Aimbot, ESP &amp; Radar for PC')) {
   fail('Homepage H1 must match the page title (Seobility title/content alignment)')
+}
+const homeDesc =
+  'Sons of the Forest Hacks for Windows PC: silent-aim Aimbot, player ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status. Buy from $35 on sotfhacks.org.'
+if (!home.includes(`content="${homeDesc}"`)) {
+  fail('Homepage meta description must match HOME_PAGE_DESCRIPTION and hero paragraph')
 }
 if (product.includes('<title>Buy Sons of the Forest Hacks')) fail('Product details page competes with homepage')
 if ((faq.match(/"@type":"FAQPage"/g) || []).length !== 1) fail('/faq must own one FAQPage')

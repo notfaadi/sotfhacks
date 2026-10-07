@@ -7,7 +7,13 @@ import { FaqSection } from '../components/FaqSection'
 import { guidePath } from '../data/games'
 import { CheckoutLink } from '../components/CheckoutLink'
 import { HOME_FAQS } from '../data/faqs'
-import { HOME_HEADINGS, SITE_HOST, SITE_NAME, SITE_PURPOSE } from '../data/site'
+import {
+  HOME_HEADINGS,
+  HOME_PAGE_DESCRIPTION,
+  SITE_HOST,
+  SITE_NAME,
+  SITE_PURPOSE,
+} from '../data/site'
 import { BLOGS, blogPath } from '../data/blogs'
 
 const FEATURES = [
@@ -55,8 +61,7 @@ export function HomePage() {
                   {HOME_HEADINGS.h1}
                 </h1>
                 <p className="mt-3 max-w-md text-sm leading-relaxed text-white/70 sm:mt-3.5 sm:text-[0.95rem]">
-                  Sons of the Forest cheats for Windows PC — silent aim Aimbot, ESP, wallhack, loot
-                  ESP, radar hack and live Easy Anti-Cheat (EAC) status on official and private servers.
+                  {HOME_PAGE_DESCRIPTION}
                 </p>
 
                 <div className="relative z-50 mt-5 flex flex-col gap-2.5 sm:flex-row sm:items-center">
