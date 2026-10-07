@@ -342,8 +342,8 @@ if (!redirects.includes('/dayz-hacks')) {
 }
 
 const linksTs = readFileSync(join(root, 'src', 'data', 'links.ts'), 'utf8')
-if (!linksTs.includes('zadeyo.com/go/FDI?to=%2Fproducts%2Fsonsoftheforest')) {
-  fail('links.ts CHECKOUT_URL must use the FDI affiliate link to /products/sonsoftheforest')
+if (!linksTs.includes('zadeyo.com/go/FDI?to=%2Fproducts%2Fsons-of-the-forest-cheats')) {
+  fail('links.ts CHECKOUT_URL must use the FDI affiliate link to /products/sons-of-the-forest-cheats')
 }
 
 const worker = readFileSync(join(root, 'workers', 'site.js'), 'utf8')

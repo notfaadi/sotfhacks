@@ -80,9 +80,9 @@ export const SITE_GUIDE_LINKS = [
   { label: 'Status checklist', to: blogPath('undetected-status') },
 ] as const
 
-/** Zadeyo affiliate — must match the working /go/FDI product deep link exactly. */
+/** Zadeyo affiliate (FDI) → live product slug sons-of-the-forest-cheats. */
 export const CHECKOUT_URL =
-  'https://zadeyo.com/go/FDI?to=%2Fproducts%2Fsonsoftheforest'
+  'https://zadeyo.com/go/FDI?to=%2Fproducts%2Fsons-of-the-forest-cheats'
 
 export function getCheckoutUrl(_productSlug?: string): string {
   return CHECKOUT_URL
