@@ -40,10 +40,15 @@ export type PageSeo = {
 const INDEX_ROBOTS =
   'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
 
+/** Homepage SERP copy — must match visible H1 and hero paragraph (Seobility title/content alignment). */
+export const HOME_PAGE_TITLE = 'Sons of the Forest Hacks — Aimbot, ESP & Radar for PC'
+export const HOME_PAGE_DESCRIPTION =
+  'Sons of the Forest cheats for Windows PC — silent-aim Aimbot, ESP, wallhack, loot ESP, radar hack and live Easy Anti-Cheat (EAC) status on official and private servers. From $35 on sotfhacks.org.'
+
 export const SEO = {
   home: {
-    title: META_TITLES.homeLong,
-    description: META_DESCRIPTIONS.homeLong,
+    title: HOME_PAGE_TITLE,
+    description: HOME_PAGE_DESCRIPTION,
     path: '/',
     ogType: 'website',
     image: PAGE_OG.home,
@@ -98,7 +103,7 @@ export const SEO = {
 } as const satisfies Record<string, PageSeo>
 
 export const HOME_HEADINGS = {
-  h1: 'Sons of the Forest Hacks — Sons of the Forest Hack Aimbot, ESP & Hacks',
+  h1: HOME_PAGE_TITLE,
   h2Features: 'Sons of the Forest Aimbot, ESP, loot ESP & radar hack',
   h2Featured: 'Sons of the Forest ESP and silent aim Aimbot',
   h2About: 'Clear Easy Anti-Cheat (EAC) status before you buy Sons of the Forest cheats',

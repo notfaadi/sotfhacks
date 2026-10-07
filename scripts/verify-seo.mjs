@@ -81,10 +81,13 @@ const faq = readFileSync(join(dist, 'faq', 'index.html'), 'utf8')
 const support = readFileSync(join(dist, 'support', 'index.html'), 'utf8')
 const forums = readFileSync(join(dist, 'forums', 'index.html'), 'utf8')
 
-if (
-  !home.includes('<title>Sons of the Forest Hacks - Undetected Cheats &amp; Trainer | Download</title>')
-) {
-  fail('Homepage does not own the exact transactional title')
+const homeTitle =
+  'Sons of the Forest Hacks — Aimbot, ESP &amp; Radar for PC'
+if (!home.includes(`<title>${homeTitle}</title>`)) {
+  fail('Homepage title must match HOME_PAGE_TITLE and visible H1')
+}
+if (!home.includes(`<h1`) || !home.includes('Aimbot, ESP &amp; Radar for PC')) {
+  fail('Homepage H1 must match the page title (Seobility title/content alignment)')
 }
 if (product.includes('<title>Buy Sons of the Forest Hacks')) fail('Product details page competes with homepage')
 if ((faq.match(/"@type":"FAQPage"/g) || []).length !== 1) fail('/faq must own one FAQPage')
